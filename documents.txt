@@ -1,0 +1,10 @@
+Document 1: This is a sample document about AI.
+Document 2: This document talks about machine learning.
+Document 3: Another sample text with no specific topic.
+Document 4: This text is about information retrieval.
+Document 5: More random text data for testing.
+Document 6: This document covers natural language processing.
+Document 7: Yet another sample document.
+Document 8: The quick brown fox jumps over the lazy dog.
+Document 9: A sample document on Python programming.
+Document 10: Extra text for demonstration purposes.
